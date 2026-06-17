@@ -116,4 +116,5 @@ if __name__ == "__main__":
 
 
 # Autor: Marcin Iwanicki
+# Wersja: 1.0 - Zmiana zrobiona w chmurze
 
