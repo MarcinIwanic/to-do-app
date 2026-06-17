@@ -117,3 +117,5 @@ if __name__ == "__main__":
 
 # Autor: Marcin Iwanicki
 # Wersja: 2.0 - Moja lokalna wersja
+
+
