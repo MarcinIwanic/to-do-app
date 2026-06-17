@@ -115,5 +115,5 @@ if __name__ == "__main__":
     main()
 
 
-# Autor: Marcin Iwanicki
+# Autor projektu: Marcin Iwanicki 
 
